@@ -15,15 +15,15 @@ understanding digital audience behavior.
 Microsoft Power BI
 
 ## Dashboard
-[]()
+[](https://github.com/rohini-kadam98/Social-Media-Engagement/blob/main/social_media_engagement.pdf)
 
 ## Key Insights and Recommendation
-🔹 Peak Engagement Hours – Best times to post: 5 AM, 10 AM, and 3 PM ⏰
-🔹 Best Post Types – Videos & Polls drive the most engagement 🎥📊
-🔹 Best Days to Post – Tuesday & Sunday are top-performing days 📅
-🔹 Top-Performing Content – Videos dominate! Replicate high-engagement strategies 🎯
-🔹 Hashtag Strategy – Quality > Quantity. 
-🔹 Low-Engagement Days – Test new formats on Monday & Saturday to improve interaction 📌
-🔹 Sentiment Analysis – Positive & neutral tones connect better with the audience 😊
-💡 Data-driven strategies can transform social media performance!
+🔹 Peak Engagement Hours – Best times to post: 5 AM, 10 AM, and 3 PM ⏰                                                    
+🔹 Best Post Types – Videos & Polls drive the most engagement 🎥📊                                                               
+🔹 Best Days to Post – Tuesday & Sunday are top-performing days 📅                                                                                          
+🔹 Top-Performing Content – Videos dominate! Replicate high-engagement strategies 🎯                                                                       
+🔹 Hashtag Strategy – Quality > Quantity.                                                                               
+🔹 Low-Engagement Days – Test new formats on Monday & Saturday to improve interaction 📌                                                            
+🔹 Sentiment Analysis – Positive & neutral tones connect better with the audience 😊                                                           
+💡 Data-driven strategies can transform social media performance!                   
 
