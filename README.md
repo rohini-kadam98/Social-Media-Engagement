@@ -15,7 +15,7 @@ understanding digital audience behavior.
 Microsoft Power BI
 
 ## Dashboard
-![Dashboard](social_media_engagement.pdf)
+[Dashboard](social_media_engagement.pdf)
 
 ## Key Insights and Recommendation
 🔹 Peak Engagement Hours – Best times to post: 5 AM, 10 AM, and 3 PM ⏰                                                    
