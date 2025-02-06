@@ -11,5 +11,19 @@ enhance online visibility. Whether you're conducting sentiment analysis, A/B tes
 types, or building engagement prediction models, this dataset serves as a valuable resource for 
 understanding digital audience behavior. 
 
+## Tool Used
+Microsoft Power BI
 
+## Dashboard
+[]()
+
+## Key Insights and Recommendation
+🔹 Peak Engagement Hours – Best times to post: 5 AM, 10 AM, and 3 PM ⏰
+🔹 Best Post Types – Videos & Polls drive the most engagement 🎥📊
+🔹 Best Days to Post – Tuesday & Sunday are top-performing days 📅
+🔹 Top-Performing Content – Videos dominate! Replicate high-engagement strategies 🎯
+🔹 Hashtag Strategy – Quality > Quantity. 
+🔹 Low-Engagement Days – Test new formats on Monday & Saturday to improve interaction 📌
+🔹 Sentiment Analysis – Positive & neutral tones connect better with the audience 😊
+💡 Data-driven strategies can transform social media performance!
 
